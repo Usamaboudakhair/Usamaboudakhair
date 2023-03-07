@@ -6,7 +6,7 @@
 
 #### about me
 ```javascript
-const amine = {
+const Usama = {
   pronouns: "He" | "Him",
   code: ["Javascript", "php", "HTML", "CSS", "C","java"],
   askMeAbout: ["web dev", "frontend dev", "tailwind","backend dev","laravel"],
@@ -15,7 +15,7 @@ const amine = {
       backend: ["laravel", "L node.js"],
   }
 }
-
+```
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usamaboudakhair&label=Profile%20views&color=0e75b6&style=flat" alt="usamaboudakhair" /> </p>
 
