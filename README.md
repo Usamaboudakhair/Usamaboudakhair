@@ -1,8 +1,9 @@
 <div align=center>
   <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?duration=5000&color=1e7ab0&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Oussama+Aboudakhair;Software+Engineer+%26+Student+ ;%26UI%2FUX+Web+Developer" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?duration=5000&color=1e69b0&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Oussama+Aboudakhair;Software+Engineer+Student+%26+Web+Devlopper;%26UI%2FUX+Designer" alt="Headline" />
     </div>
 </div>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usamaboudakhair&label=Profile%20views&color=0e75b6&style=flat" alt="usamaboudakhair" /> </p>
 
