@@ -35,7 +35,7 @@ const Usama = {
 
 
 
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=usamaboudakhair&show_icons=true&locale=en" alt="usamaboudakhair" /></p>
 
 **Usamaboudakhair/Usamaboudakhair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!--
