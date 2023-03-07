@@ -1,6 +1,6 @@
 <div align=center>
   <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?duration=5000&color=1e7ab0&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Oussama+Aboudakhair;Big+Data+%26+Cloud+Computing+student;%26UI%2FUX+Designer" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?duration=5000&color=1e7ab0&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Oussama+Aboudakhair;Software+%26+Engineer+%26+Student+ ;%26UI%2FUX+Web+Developer" alt="Headline" />
     </div>
 </div>
 
