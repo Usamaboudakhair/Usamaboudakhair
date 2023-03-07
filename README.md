@@ -1,4 +1,8 @@
-
+<div align=center>
+  <div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?duration=5000&color=2D9ECF&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Amine+Hmine;Big+Data+%26+Cloud+Computing+student;%26UI%2FUX+Designer" alt="Headline" />
+    </div>
+</div>
 <div align=center>
   <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?duration=5000&color=#743896&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+👋+I'm+Oussama+Aboudakhair;Web+%26+Developer;%26Software%2FEngineer+Student" alt="Headline" />
