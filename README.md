@@ -4,6 +4,18 @@
     </div>
 </div>
 
+#### about me
+```javascript
+const amine = {
+  pronouns: "He" | "Him",
+  code: ["Javascript", "php", "HTML", "CSS", "C","java"],
+  askMeAbout: ["web dev", "frontend dev", "tailwind","backend dev","laravel"],
+  technologies: {
+      frontend: ["L react.js", "Bootstrap","Tailwind"],
+      backend: ["laravel", "L node.js"],
+  }
+}
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usamaboudakhair&label=Profile%20views&color=0e75b6&style=flat" alt="usamaboudakhair" /> </p>
 
