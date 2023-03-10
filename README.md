@@ -1,7 +1,7 @@
 
 <div align=center>
   <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?duration=5000&color=1e69b0&size=33&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Usama+Aboudakhair;Software+Engineer+Student;%26+Web+Devlopper" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?duration=8000&color=1e69b0&size=33&center=true&vCenter=true&width=650&height=50&bold=true&lines=Hi+there+I'm+Usama+Aboudakhair;Software+Engineer+Student;%26+Web+Devlopper" alt="Headline" />
     </div>
 </div>
 
