@@ -46,7 +46,9 @@ const Usama = {
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=usamaboudakhair&label=Profile%20views&color=0e75b6&style=flat" alt="usamaboudakhair" /> </p>
 
-<p align="center"><img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"></p><br />
+<div>
+<img src="https://raw.githubusercontent.com/NdekoCode/NdekoCode/main/assets/img/banner-fullstack.gif" align="center" width="100%">
+</div>
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usamaboudakhair&theme=blue-green">-->
 
 
