@@ -1,4 +1,4 @@
-(https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Hi+there+👋+I'm+Usama+Aboudakhair;Software+Engineer+Student;%26+Web+Devlopper)
+https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Hi+there+👋+I'm+Usama+Aboudakhair;Software+Engineer+Student;%26+Web+Devlopper
 <br/>
  <div align=center> <div align=center> <img src="https://readme-typing-svg.herokuapp.com?duration=5000&color=1e69b0&size=33&weight=800&center=true&vCenter=true&width=650&height=50&lines=Hi+there+👋+I'm+Usama+Aboudakhair;Software+Engineer+Student;%26+Web+Devlopper" alt="Headline" /> </div> </div>
 <br/>
