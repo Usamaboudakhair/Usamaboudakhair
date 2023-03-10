@@ -43,7 +43,7 @@ const Usama = {
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Usamaboudakhair&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"><br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usamaboudakhair&theme=blue-green">
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usamaboudakhair&theme=blue-green">-->
 <p align="center" style='margin:20px'> <img src="https://komarev.com/ghpvc/?username=Usamaboudakhair=Profile%20views&color=0e75b6&style=flat" alt="smart-dev" width='200'/> </p>
 
 
