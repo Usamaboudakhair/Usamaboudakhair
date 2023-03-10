@@ -1,7 +1,8 @@
-https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Hi+there+👋+I'm+Usama+Aboudakhair;Software+Engineer+Student;%26+Web+Devlopper
-<br/>
+
+ <div align=center> <div align=center> <img src="https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Hi+there+👋+I'm+Usama+Aboudakhair;Software+Engineer+Student;%26+Web+Devlopper" alt="Headline" /> </div> </div>
+<!--<br/>
  <div align=center> <div align=center> <img src="https://readme-typing-svg.herokuapp.com?duration=5000&color=1e69b0&size=33&weight=800&center=true&vCenter=true&width=650&height=50&lines=Hi+there+👋+I'm+Usama+Aboudakhair;Software+Engineer+Student;%26+Web+Devlopper" alt="Headline" /> </div> </div>
-<br/>
+<br/>-->
  <p align="center"> <img src="https://user-images.githubusercontent.com/120065120/212209674-07b3685e-1127-4f42-9871-3a423d343fa2.svg" /> </p>
 <br/>
 
