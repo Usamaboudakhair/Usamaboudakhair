@@ -20,9 +20,6 @@ const Usama = {
 }
 ```
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=usamaboudakhair&label=Profile%20views&color=0e75b6&style=flat" alt="usamaboudakhair" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usamaboudakhair" alt="usamaboudakhair" /></a> </p>
 
 - 🌱 I’m currently learning **REACT-JS && Software Engineering**
 
@@ -41,6 +38,10 @@ const Usama = {
 
 [![AB's github stats](https://github-readme-stats.vercel.app/api?username=Usamaboudakhair&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Usamaboudakhair&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=usamaboudakhair&label=Profile%20views&color=0e75b6&style=flat" alt="usamaboudakhair" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usamaboudakhair" alt="usamaboudakhair" /></a> </p>
 <br />
 <img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"><br />
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usamaboudakhair&theme=blue-green">-->
