@@ -17,7 +17,7 @@ const Usama = {
 ```
 
 
-# 🌱 I’m currently learning **REACT-JS && Software Engineering**
+-🌱 I’m currently learning **REACT-JS && Software Engineering**
 
 # <h3 align="left">Connect with me:</h3>
 <p align="left">
