@@ -1,9 +1,11 @@
-<p align="center"> <img src="https://user-images.githubusercontent.com/120065120/212209674-07b3685e-1127-4f42-9871-3a423d343fa2.svg" /> </p>
+
 <div align=center>
   <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?duration=5000&color=1e69b0&size=33&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Usama+Aboudakhair;Software+Engineer+Student;%26+Web+Devlopper" alt="Headline" />
     </div>
 </div>
+
+<p align="center"> <img src="https://user-images.githubusercontent.com/120065120/212209674-07b3685e-1127-4f42-9871-3a423d343fa2.svg" /> </p>
 
 #### about me
 ```javascript
@@ -44,11 +46,25 @@ const Usama = {
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usamaboudakhair&theme=blue-green">
 <p align="center" style='margin:20px'> <img src="https://komarev.com/ghpvc/?username=Usamaboudakhair=Profile%20views&color=0e75b6&style=flat" alt="smart-dev" width='200'/> </p>
 
-<p align="center"> <img width='100' src="https://user-images.githubusercontent.com/120065120/212206843-cf86b9c1-9557-4f3e-a49b-f54ba1703e05.png" alt="trophy" /> </p>
+
 
 
 <!--
 **Usamaboudakhair/Usamaboudakhair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+***
+[![AB's github stats](https://github-readme-stats.vercel.app/api?username=Usamaboudakhair&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Usamaboudakhair&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"><br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usamaboudakhair&theme=blue-green">
+<p align="center" style='margin:20px'> <img src="https://komarev.com/ghpvc/?username=Usamaboudakhair=Profile%20views&color=0e75b6&style=flat" alt="smart-dev" width='200'/> </p>
+
+<p align="center"> <img width='100' src="https://user-images.githubusercontent.com/120065120/212206843-cf86b9c1-9557-4f3e-a49b-f54ba1703e05.png" alt="trophy" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Usamaboudakhair&theme=onedark" alt="smart-dev" /></a> </p>
+
+***
+
 
 Here are some ideas to get you started:
 
