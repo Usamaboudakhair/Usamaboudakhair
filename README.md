@@ -7,9 +7,9 @@
 #### About-me
 ```javascript
 const Usama = {
- ⚡code: ["Javascript", "php", "HTML", "CSS", "C","java"],
- 💬askMeAbout: ["web dev", "frontend dev", "tailwind","backend dev","laravel"],
-  technologies: {
+ ⚡ code: ["Javascript", "php", "HTML", "CSS", "C","java"],
+ ⚡ askMeAbout: ["web dev", "frontend dev", "tailwind","backend dev","laravel"],
+ ⚡ technologies: {
       frontend: ["L react.js", "Bootstrap","Tailwind"],
       backend: ["laravel", "L node.js"],
   }
