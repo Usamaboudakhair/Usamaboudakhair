@@ -42,10 +42,11 @@ const Usama = {
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=usamaboudakhair&label=Profile%20views&color=0e75b6&style=flat" alt="usamaboudakhair" /> </p>
 <div>
-<img src="https://raw.githubusercontent.com/NdekoCode/NdekoCode/main/assets/img/banner-fullstack.gif" align="center" width="100%">
+<img src="https://github.com/Usamaboudakhair/Usamaboudakhair/blob/master/img.gif?raw=true" align="center" width="100%">
 </div>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Thank+You+for+Visiting+😇...!)
+<br/>
+<div align=center> <div align=center> <img src="(https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Thank+You+for+Visiting+😇...!r" alt="Headline" /> </div> </div>
 
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usamaboudakhair&theme=blue-green">-->
 
