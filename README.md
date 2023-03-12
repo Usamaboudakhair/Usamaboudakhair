@@ -7,9 +7,8 @@
 #### About-me
 ```javascript
 const Usama = {
-  pronouns: "He" | "Him",
-  code: ["Javascript", "php", "HTML", "CSS", "C","java"],
-  askMeAbout: ["web dev", "frontend dev", "tailwind","backend dev","laravel"],
+ ⚡code: ["Javascript", "php", "HTML", "CSS", "C","java"],
+ 💬askMeAbout: ["web dev", "frontend dev", "tailwind","backend dev","laravel"],
   technologies: {
       frontend: ["L react.js", "Bootstrap","Tailwind"],
       backend: ["laravel", "L node.js"],
@@ -46,7 +45,7 @@ const Usama = {
 </div>
 
 <br/>
-<div align=center> <div align=center> <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Thank+You+for+Visiting+😇...!r" alt="Headline" /> </div> </div>
+<div align=center> <div align=center> <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Thank+You+for+Visiting+...!" alt="Headline" /> </div> </div>
 
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usamaboudakhair&theme=blue-green">-->
 
