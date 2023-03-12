@@ -22,9 +22,9 @@ const Usama = {
 
 ## ⚡Connect with me ##
 <p align="left">
-<a href="https://twitter.com/aboudakhairu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aboudakhairu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/oussama aboudakhair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oussama aboudakhair" height="30" width="40" /></a>
-<a href="https://instagram.com/osama1boudakhair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="osama1boudakhair" height="30" width="40" /></a>
+<a href="https://twitter.com/aboudakhairu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aboudakhairu" height="25" width="30" /></a>
+<a href="https://linkedin.com/in/oussama aboudakhair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oussama aboudakhair" height="25" width="30" /></a>
+<a href="https://instagram.com/osama1boudakhair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="osama1boudakhair" height="25" width="30" /></a>
 </p>
 
 
@@ -46,7 +46,7 @@ const Usama = {
 <img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usamaboudakhair&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&hide_border=true&langs_count=20&hide=hack,swift,kotlin,objective-c"/>
 
 
-<img src="https://github.com/Usamaboudakhair/Usamaboudakhair/blob/master/img.gif?raw=true" align="center" width="100%">
+<img src="img.gif" align="center" width="100%">
 </div>
 
 <br/>
