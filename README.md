@@ -18,7 +18,7 @@ const Usama = {
 
 
 -🌱 I’m currently learning **REACT-JS && Software Engineering**
-
+- 👥 I’m looking forward to collaborate on open source projects.🌟
 
 ## Connect with me ##
 <p align="left">
@@ -33,8 +33,18 @@ const Usama = {
 
 
 ## 📈 GitHub Stats ##
-[![AB's github stats](https://github-readme-stats.vercel.app/api?username=Usamaboudakhair&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Usamaboudakhair&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+ <h2 align="left">⚡Activity Graph:</h2>
+ <a><img alt="Shubham Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Usamaboudakhair-0&theme=react-dark&hide_border=true" /></a>
+
+<p align="center">
+<a href="https://github.com/Shubh2-0/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Usamaboudakhair-0&&show_icons=true&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=10&hide_border=true" height="200px"/></a> 
+   <br>                                                                         
+ <img id="github-stats-card" alt="status github, commits, etc..." width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=Usamaboudakhair-0&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=10&hide_border=true"/>
+   <br>
+<img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usamaboudakhair-0&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&hide_border=true&langs_count=20&hide=hack,swift,kotlin,objective-c"/>
+ 
+ 
 <p align="center"> <img width='100' src="https://user-images.githubusercontent.com/120065120/212206843-cf86b9c1-9557-4f3e-a49b-f54ba1703e05.png" alt="trophy" /> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Usamaboudakhair&theme=onedark" alt="smart-dev" /></a> </p>
 
@@ -46,36 +56,3 @@ const Usama = {
 
 <br/>
 <div align=center> <div align=center> <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Thank+You+for+Visiting+...!" alt="Headline" /> </div> </div>
-
-<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usamaboudakhair&theme=blue-green">-->
-
-<!--
-**Usamaboudakhair/Usamaboudakhair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-***
-[![AB's github stats](https://github-readme-stats.vercel.app/api?username=Usamaboudakhair&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Usamaboudakhair&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"><br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usamaboudakhair&theme=blue-green">
-<p align="center" style='margin:20px'> <img src="https://komarev.com/ghpvc/?username=Usamaboudakhair=Profile%20views&color=0e75b6&style=flat" alt="smart-dev" width='200'/> </p>
-
-<p align="center"> <img width='100' src="https://user-images.githubusercontent.com/120065120/212206843-cf86b9c1-9557-4f3e-a49b-f54ba1703e05.png" alt="trophy" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Usamaboudakhair&theme=onedark" alt="smart-dev" /></a> </p>
-
-
-
-***
-
-
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
