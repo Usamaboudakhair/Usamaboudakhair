@@ -45,9 +45,10 @@ const Usama = {
    <br> -->
 <img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usamaboudakhair&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&hide_border=true&langs_count=20&hide=hack,swift,kotlin,objective-c"/>
 
+<div  width="100%"> <div align=center> <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=29eb0c&background=000000&center=true&vCenter=true&width=490&lines=%3E+Thank+You+for+Visiting+...!" alt="Headline" /> </div> </div>
 
 <img src="img.gif" align="center" width="100%">
 </div>
 
 <br/>
-<div  width="100%"> <div align=center> <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=1a9e02&background=000000&center=true&vCenter=true&width=490&lines=%3E+Thank+You+for+Visiting+...!" alt="Headline" /> </div> </div>
+
