@@ -50,4 +50,4 @@ const Usama = {
 </div>
 
 <br/>
-<div align=center> <div align=center> <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Thank+You+for+Visiting+...!" alt="Headline" /> </div> </div>
+<div align=center> <div align=center> <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=#1a9e02&center=true&vCenter=true&width=490&lines=%3E+Thank+You+for+Visiting+...!" alt="Headline" /> </div> </div>
