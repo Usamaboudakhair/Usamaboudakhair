@@ -3,7 +3,7 @@
 
 <p align="center" ><img src="https://user-images.githubusercontent.com/120065120/212209674-07b3685e-1127-4f42-9871-3a423d343fa2.svg" /></p>
 
-
+![counter](https://komarev.com/ghpvc/?username=musoye&color=blue)
 ## <img src="about_me.gif" width ="30"> About-me 
 ```javascript
 const Usama = {
